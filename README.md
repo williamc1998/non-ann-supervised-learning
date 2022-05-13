@@ -7,4 +7,4 @@ This brief project attempts to classify liver disease in liver patients from ind
 RF and KNN are used here.
 Achieves moderate success but is outclassed by Intel.
 
-Requires a bunch of libraries to be installed.
+Requires a bunch of libraries to be installed including JS and plotting libraries to be able to see interactive charts. Without these interactive charts will not show up.
